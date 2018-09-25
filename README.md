@@ -32,4 +32,4 @@ The user is given the choice of logging in or registering for an account, with t
 
 
 ### Our Backend
-Postgres was picked as our relational databased because of the need to have unique identifiers for our project and ease of scalability. Our database was hosted on an Amazon Web Server and we used Postman to make requests, tests, and used for debugging.
+Postgres was picked as our relational databased because of the need to have unique identifiers for our project and ease of scalability. Our database was hosted on an Amazon Web Server and we used Postman to make requests, tests, and used for debugging
